@@ -18,4 +18,4 @@ S=(n*(n+1))/2
 S
 
 # Diseño
-![""](./diagramasnn.png)
+![diagramadeflujo](diagramasnn.png)
